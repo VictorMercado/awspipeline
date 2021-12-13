@@ -74,7 +74,7 @@ async function fetchPokemon(x) {
     return pokeObj;
 }
 app.get('/', (req, res) => {
-    res.send('<h1>Express DEMO</h1> <h4>Message: Successs</h4><p>Version 1.0</p>');
+    res.send('<h1>Pokemon API DEMO</h1> <h4>Message: Successs again </h4><p>Version 2.xxxx</p>');
 });
 
 //API ENDPOINT to get pokemon data
