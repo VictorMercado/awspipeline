@@ -1,0 +1,23 @@
+{
+  "name": "awspipeline",
+  "version": "1.0.0",
+  "description": "an example web app to demonstrate CI/CD",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VictorMercado/awspipeline.git"
+  },
+  "author": "Victor Mercado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VictorMercado/awspipeline/issues"
+  },
+  "homepage": "https://github.com/VictorMercado/awspipeline#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "express": "^4.17.1"
+  }
+}
